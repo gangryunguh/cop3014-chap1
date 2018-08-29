@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-   double hours, rate, pay;
+   // define three double data type variables - hours, rate, and pay
 
    // Prompt "How many hours did you work? " to console
 
@@ -16,7 +16,6 @@ int main()
 
    // Calculate the pay.
 
-   
    // Display the pay.
 
    // return value 0 to the caller of main
